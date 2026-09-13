@@ -45,7 +45,7 @@
 
 ## 之后
 
-> 运行 `npm install jsonwebtoken@latest`，然后编辑 `src/auth.ts:42`。
+> 编辑 `src/auth.ts:42` 以更新令牌验证。
 >
 > 1. 打开 `src/auth.ts`
 > 2. 将 `verifyToken`（第 42–58 行）替换为下面的代码片段

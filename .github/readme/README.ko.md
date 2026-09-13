@@ -45,7 +45,7 @@
 
 ## 사용 후
 
-> `npm install jsonwebtoken@latest` 실행 후 `src/auth.ts:42`를 수정하세요.
+> `src/auth.ts:42`를 수정하여 토큰 검증을 업데이트하세요.
 >
 > 1. `src/auth.ts` 열기
 > 2. `verifyToken`(42~58줄)을 아래 스니펫으로 교체
